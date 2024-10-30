@@ -1,0 +1,1187 @@
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Items sizes:"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Big"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Landscape"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Portrait"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Small"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Equal Columns"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "Vertical List"
+msgstr ""
+
+#: admin/partials/fields/minitek-wall-admin-field-wall-grids.php
+msgid "You can configure each size separately with the Detail box parameters."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "An optional class to be applied to the grid container."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Grid class"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Disable if you are already using the FontAwesome library in your template."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Load FontAwesome"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "No"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Disable if you are already using the Lightbox2 library in your template."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-general.php
+msgid "Load Lightbox2"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Items type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Posts"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Media (Images)"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Pages"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Products"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Specific items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Folder"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "RSS"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Custom items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Category filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Inclusive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Exclusive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Include children"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Tag filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Tags"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Author filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Authors"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Enter the IDs of the items to be excluded, separated by commas."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Exclude items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Integer. The first x items will be skipped."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Offset"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Display items that match these keywords. Separate multiple keywords with spaces. Prepending a keyword with a hyphen will exclude items matching that keyword."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Keywords"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Ordering"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Author"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Title"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Date created"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Date modified"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Number of comments"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Random"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Ordering direction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Ascending"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Descending"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Enter the IDs of the posts to be included, separated by commas. Retrieves any type except revisions and types with ‘exclude_from_search’ set to true."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Include IDs"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Path"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Relative path to a folder. The folder must contain images."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Relative path to a local RSS file on server or remote RSS url."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-data-source.php
+msgid "Select a group of custom items."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Preset grids"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 1"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 3a"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 3b"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 3c"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 4"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 5a"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 5b"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 6"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 7"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 8"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry - Grid 9"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Equal Columns"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Rows - Grid 9"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Rows - Grid 11"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Rows - Grid 12"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Rows - Grid 16"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Vertical List"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Select a custom grid."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Number of columns for Equal Columns layout."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Columns"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options.php
+msgid "Masonry: The default layout mode. Items are arranged in a vertically cascading grid. FitRows: Items are arranged into rows. Works well for items that have the same height."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Layout mode"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Masonry"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "FitRows"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Force equal height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Space around each item (in pixels)."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Gutter"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Item border"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "In pixels."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Border size"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Border color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-layout.php
+msgid "Border radius"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Show images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Image type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Featured"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "If not found, the inline image will be used instead."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Inline"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "The first image found in the post content."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "If enabled, the image will cover the whole item container and will be visible behind the detail box."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Full size image"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Crop images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Image width"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Image height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Preserve aspect ratio"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Absolute url. The fallback image will be displayed if there is no featured or inline image."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-images.php
+msgid "Fallback image"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Word limit for title."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Title limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Word limit for introtext."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Introtext limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "If disabled, the introtext limit will be ignored."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Strip introtext html"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Documentation on date and time formatting."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Date format"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Columns / Vertical list"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Big item settings"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "The box that contains all post data."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show detail box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "If no image is found, the position will default to \"Cover\"."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Detail box position"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Top"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Right"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Bottom"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Left"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Cover"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Background color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Accepts values from 0 up to 1 with 2 decimals (e.g., 0.75)."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Background color opacity"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Detail box text color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Light"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Dark"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show title"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show introtext"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show date"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show category"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show tags"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show author"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Available only for Woocommerce products."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show price"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show comments count"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Show Read more button"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Landscape item settings"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Portrait item settings"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Small item settings"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Columns / Vertical list item settings"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Outside below"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-detail-box.php
+msgid "Inside bottom"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Show hover box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Text color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Effect type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Simple toggle, no effects"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Fade in"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Flip Y"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Flip X"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Slide in left"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Slide in right"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Slide in top"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Slide in bottom"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Zoom in"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "In seconds (e.g., 0.4 or 1.2)."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Effect speed"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Effect easing"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Show link icon"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-hover-box.php
+msgid "Show lightbox icon"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Pagination type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "None"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Load more button"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Arrows"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Pages"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Infinite scroll"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "The amount of items to be initially loaded in the grid."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Initial items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Items per page"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Additional pages after initial items. Enter -1 for no limit."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Additional pages"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Show count of remaining items."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Show remaining items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "If there are active filters, a reset button will be displayed next to the pagination button."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Reset button"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Scrolls to the top of the widget container after loading a new page (does not apply for Load more button and Infinite scroll."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Scroll to top"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Arrows style"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Next"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Previous"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-pagination.php
+msgid "Theme color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Effects"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Fade"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Scale"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "The duration of the transition in milliseconds."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Transition duration"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "In milliseconds. Items transition will occur incrementally with a time delay."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Transition stagger"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-effects.php
+msgid "Theme color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Resets the grid to its original state."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Reset button"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Mode"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Dynamic"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Shows filters of currently loaded items only."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Static"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Shows filters from categories, tags and dates that are explicitly selected in the data source parameters."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Name"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "ID"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Count"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Category filters"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Dropdown list"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Inline buttons"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Tag filters"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Sorting type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Author sorting"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Title sorting"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Date created sorting"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Date modified sorting"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Comments count sorting"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-filters.php
+msgid "Sorting direction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "If disabled, the wall layout will be the same for all screen sizes."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Enable responsive levels"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Size limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Lower size limit in pixels."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Cell height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Cell height in pixels."
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Masonry grid"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-responsive.php
+msgid "Items per row"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "General"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Data source"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Detail box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Hover box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Pagination"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Filters"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-wall-options-tabs.php
+msgid "Responsive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Add new item"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Item size"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Cell height multiplier"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Add Item"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Edit item"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-layout.php
+msgid "Update Item"
+msgstr ""
+
+#: admin/partials/metabox/minitek-wall-admin-metabox-grid-options.php
+msgid "Update columns"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Minitek Wall Pro"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "A powerful masonry layout system for displaying content in WordPress."
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "New Wall"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Walls"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Items Groups"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Custom Items"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Plugin not installed"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Custom Grids"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Delete Cropped Images"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Like this plugin?"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Please leave a review"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "About"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Download ID is missing"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "To be able to update this plugin, you must enter your Download ID. You can find your download ID in"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Minitek Dashboard"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Version"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Check version"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Developer"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "License"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Download ID"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Download ID is active"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Quick Links"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Technical Support"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-dashboard.php
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-update.php
+msgid "A new version is available"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-update.php
+msgid "Update now"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-update.php
+msgid "You have the latest version"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-update.php
+msgid "You have a development version that is ahead of the latest version"
+msgstr ""
+
+#: admin/partials/minitek-wall-admin-page-update.php
+msgid "Updates are temporarily unavailable. Please check back later."
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "Items Group"
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "Custom Item"
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "Download ID"
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "You can find your Download ID in Minitek Dashboard."
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "Update"
+msgstr ""
+
+#: admin/class-minitek-wall-admin.php
+msgid "Update"
+msgstr "Custom Grid"
+
+#: admin/partials/minitek-wall-admin-page-settings.php
+msgid "Minitek Wall Pro - Settings"
+msgstr ""
+
+#: admin/class-minitek-wall-admin-metaboxes.php
+msgid "Wall Options"
+msgstr ""
+
+#: public/partials/minitek-wall-public-filters.php
+msgid "Filter by category"
+msgstr ""
+
+#: public/partials/minitek-wall-public-filters.php
+msgid "Show all"
+msgstr ""
+
+#: public/partials/minitek-wall-public-filters.php
+msgid "Filter by tag"
+msgstr ""
+
+#: public/partials/minitek-wall-public-filters.php
+msgid "View all"
+msgstr ""
+
+#: public/partials/minitek-wall-public-pagination.php
+msgid "Load more"
+msgstr ""
+
+#: public/partials/minitek-wall-public-pagination.php
+msgid "No more items"
+msgstr ""
+
+#: public/partials/minitek-wall-public-pagination.php
+msgid "Reset filters"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Sort by"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Author"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Title"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Date created"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Comments count"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Sorting direction"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Ascending"
+msgstr ""
+
+#: public/partials/minitek-wall-public-sortings.php
+msgid "Descending"
+msgstr ""
+
+#: public/class-minitek-wall-public.php
+msgid "Reset"
+msgstr ""
+
+#: public/class-minitek-wall-public.php
+msgid "comments"
+msgstr ""
+
+#: public/class-minitek-wall-public.php
+msgid "comment"
+msgstr ""
+
+#: public/class-minitek-wall-public.php
+msgid "Leave a comment"
+msgstr ""
+
+#: public/class-minitek-wall-public.php
+msgid "No items found."
+msgstr ""
